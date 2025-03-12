@@ -19,3 +19,4 @@ esta es la documentación del examen de COD
 - `git push origin v1.0`
 
 ***no se porque no me aparece el apartado de issues***
+Cree un issue, pero no se si 100% esta implementado
