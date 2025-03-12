@@ -5,7 +5,7 @@ esta es la documentación del examen de COD
 ## Pasos Seguidos
 
 1. **Fork del repositorio original**.
-2. **Creación de la rama `readme`** para documentar todo el proceso.
+2. **Creación de la rama readme** para documentar todo el proceso.
 3. **Revisión de las ramas del proyecto**.
 4. **Fusión de las ramas sin el commit indeseado de `interface`**.
 5. **Creación de la etiqueta `v1.0` y preparación para el release**.
