@@ -8,7 +8,7 @@ esta es la documentación del examen de COD
 2. **Creación de la rama readme** 
 3. **Revise de las ramas del proyecto**.
 4. **Fusione de las ramas sin el commit indeseado de interface**.
-
+5. **Cree un issue y lo cerre**
 
 ## Comandos que utilize
 
@@ -19,4 +19,5 @@ esta es la documentación del examen de COD
 - `git push origin v1.0`
 
 ***no se porque no me aparece el apartado de issues***
-Cree un issue, pero no se si 100% esta implementado
+
+**Cree un issue, pero no se si 100% esta implementado**
