@@ -11,8 +11,9 @@ esta es la documentación del examen de COD
 
 
 ## Comandos que utilize
+
 - git checkout -b readme: Crear y cambiar a la rama readme.
 - git merge: fusiónar las ramas sin incluir el readme.
 - git push: Subir los cambios al repositorio .
 - git commit -m "el mensaje que quieras poner en ese commit"
-- 
+- git push origin v1.0
